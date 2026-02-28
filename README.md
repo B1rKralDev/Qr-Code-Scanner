@@ -1,4 +1,4 @@
-# QR Code Scanner & Generator (Windows)
+# 🧾QR Code Scanner & Generator (Windows)
 
 Bu proje, Windows platformunda çalışan kullanıcı dostu bir QR kod oluşturma ve tarama uygulamasıdır. Uygulama, metin, URL ve diğer veri türlerinden hızlı bir şekilde QR kod üretme ve kamera veya görsel dosya üzerinden QR kod okuma işlemlerini güvenilir ve pratik bir şekilde gerçekleştirmek amacıyla geliştirilmiştir.
 
