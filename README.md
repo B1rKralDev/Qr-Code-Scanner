@@ -31,6 +31,12 @@ Hem günlük kullanıcılar hem de iş ve eğitim ortamları için pratik bir ç
 
 ---
 
+## 🖼️ Ekran Görüntüleri
+
+<img width="502" height="732" alt="image" src="https://github.com/user-attachments/assets/a6a0d8f2-66a1-45f6-b96b-17dabd6fd7a7" />
+
+
+---
 ## 📦 Kurulum / Kullanım
 
 1. EXE dosyasını indirin (`Qrscanner2.exe`)  
