@@ -1,25 +1,25 @@
 # QR Code Scanner & Generator 🎲 (Windows)
 
-**QR Code Scanner & Generator**, Windows platformunda çalışan kullanıcı dostu bir masaüstü uygulamasıdır.  
-Uygulama, metin, URL ve diğer veri türlerinden hızlı bir şekilde QR kod üretmenizi ve kamera veya görsel dosya üzerinden QR kod taramanızı sağlar. Hızlı, güvenilir ve pratik bir çözüm sunar.
+**QR Code Scanner & Generator**, Windows için geliştirilmiş kullanıcı dostu bir masaüstü uygulamasıdır.  
+Metin, URL veya diğer veri türlerinden hızlı bir şekilde QR kod üretmenizi ve görsel dosya veya kamera üzerinden QR kod taramanızı sağlar. Hızlı, güvenilir ve pratik bir çözüm sunar.
 
 ---
 
 ## 🚀 Özellikler
 
-- Metin ve URL’den QR kod oluşturma
-- Görsel dosyadan QR kod tarama
-- Oluşturulan QR kodu PNG veya JPG olarak kaydetme
-- Basit, modern ve kullanıcı dostu arayüz
+- Metin ve URL’den QR kod oluşturma  
+- Görsel dosyadan QR kod tarama  
+- Oluşturulan QR kodu PNG veya JPG olarak kaydetme  
+- Basit, modern ve kullanıcı dostu arayüz  
 - Windows masaüstü uyumlu
 
 ---
 
 ## 🛠️ Kullanım Alanları
 
-- Hızlı bağlantı paylaşımı
-- Wi-Fi bilgisi QR kodu olarak oluşturma
-- İletişim bilgisi (vCard) paylaşımı
+- Hızlı bağlantı paylaşımı  
+- Wi-Fi bilgisi QR kodu olarak oluşturma  
+- İletişim bilgisi (vCard) paylaşımı  
 - İş ve eğitim amaçlı QR kod işlemleri
 
 ---
@@ -27,7 +27,7 @@ Uygulama, metin, URL ve diğer veri türlerinden hızlı bir şekilde QR kod ür
 ## 🎯 Amaç
 
 Bu proje, QR kod teknolojisini Windows masaüstü ortamında hızlı, güvenli ve erişilebilir bir şekilde kullanabilmeyi hedefler.  
-Hem günlük kullanıcılar hem de iş ve eğitim ortamlarında pratik bir çözüm sunar.
+Hem günlük kullanıcılar hem de iş ve eğitim ortamları için pratik bir çözüm sunar.
 
 ---
 
@@ -47,4 +47,4 @@ Hem günlük kullanıcılar hem de iş ve eğitim ortamlarında pratik bir çöz
 
 MIT License  
 
-Made with ❤️ by B1rKralDev
+Made with ❤️ by **B1rKralDev**
