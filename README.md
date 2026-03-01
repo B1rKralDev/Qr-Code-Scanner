@@ -27,3 +27,4 @@ Wi-Fi bilgisi oluşturma
 🎯 Amaç
 
 Bu proje, QR kod teknolojisini Windows masaüstü ortamında hızlı, güvenli ve erişilebilir hale getirmeyi amaçlamaktadır.
+<img width="1024" height="1024" alt="QrScannerLogo1" src="https://github.com/user-attachments/assets/93d18910-a69c-473a-bb28-fbf0e0e015b7" />
