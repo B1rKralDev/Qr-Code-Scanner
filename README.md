@@ -1,30 +1,50 @@
-# 🎲QR Code Scanner & Generator (Windows)
+# QR Code Scanner & Generator 🎲 (Windows)
 
-Bu proje, Windows platformunda çalışan kullanıcı dostu bir QR kod oluşturma ve tarama uygulamasıdır. Uygulama, metin, URL ve diğer veri türlerinden hızlı bir şekilde QR kod üretme ve kamera veya görsel dosya üzerinden QR kod okuma işlemlerini güvenilir ve pratik bir şekilde gerçekleştirmek amacıyla geliştirilmiştir.
+**QR Code Scanner & Generator**, Windows platformunda çalışan kullanıcı dostu bir masaüstü uygulamasıdır.  
+Uygulama, metin, URL ve diğer veri türlerinden hızlı bir şekilde QR kod üretmenizi ve kamera veya görsel dosya üzerinden QR kod taramanızı sağlar. Hızlı, güvenilir ve pratik bir çözüm sunar.
 
-🚀 Özellikler
+---
 
-Metin ve URL’den QR kod oluşturma
+## 🚀 Özellikler
 
-Görsel dosyadan QR kod okuma
+- Metin ve URL’den QR kod oluşturma
+- Görsel dosyadan QR kod tarama
+- Oluşturulan QR kodu PNG veya JPG olarak kaydetme
+- Basit, modern ve kullanıcı dostu arayüz
+- Windows masaüstü uyumlu
 
-Oluşturulan QR kodu PNG/JPG formatında kaydetme
+---
 
-Basit ve modern kullanıcı arayüzü
+## 🛠️ Kullanım Alanları
 
-Windows masaüstü uyumlu yapı
+- Hızlı bağlantı paylaşımı
+- Wi-Fi bilgisi QR kodu olarak oluşturma
+- İletişim bilgisi (vCard) paylaşımı
+- İş ve eğitim amaçlı QR kod işlemleri
 
-🛠️ Kullanım Alanları
+---
 
-Hızlı bağlantı paylaşımı
+## 🎯 Amaç
 
-Wi-Fi bilgisi oluşturma
+Bu proje, QR kod teknolojisini Windows masaüstü ortamında hızlı, güvenli ve erişilebilir bir şekilde kullanabilmeyi hedefler.  
+Hem günlük kullanıcılar hem de iş ve eğitim ortamlarında pratik bir çözüm sunar.
 
-İletişim bilgisi (vCard) paylaşımı
+---
 
-İş ve eğitim amaçlı QR işlemleri
+## 📦 Kurulum / Kullanım
 
-🎯 Amaç
+1. EXE dosyasını indirin (`Qrscanner2.exe`)  
+2. Çift tıklayarak çalıştırın  
+3. QR kod oluşturmak için metin veya URL girin  
+4. QR kodu taramak için görsel seçin veya kamera kullanın  
+5. Oluşturulan QR kodu kaydedin veya paylaşın  
 
-Bu proje, QR kod teknolojisini Windows masaüstü ortamında hızlı, güvenli ve erişilebilir hale getirmeyi amaçlamaktadır.
-<img width="1024" height="1024" alt="QrScannerLogo1" src="https://github.com/user-attachments/assets/93d18910-a69c-473a-bb28-fbf0e0e015b7" />
+> **Not:** EXE sürümü tüm gerekli kütüphanelerle birlikte paketlenmiştir. Ek kurulum gerekmez.
+
+---
+
+## 📄 Lisans
+
+MIT License  
+
+Made with ❤️ by B1rKralDev
